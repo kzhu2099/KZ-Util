@@ -5,7 +5,7 @@ build-backend = 'setuptools.build_meta'
 [project]
 name = 'kzutil'
 
-version = '1.0.0'
+version = '1.1.2'
 
 description = 'a library that gives you useful util'
 
@@ -13,7 +13,7 @@ authors = [{name = 'Kevin Zhu'}, {email = 'kzhu2099@gmail.com'}]
 maintainers = [{name = 'Kevin Zhu'}, {email = 'kzhu2099@gmail.com'}]
 
 classifiers = [
-    'Development Status :: 4 - Beta',
+    'Development Status :: 5 - Production/Stable',
 
     'Intended Audience :: Developers',
     'Intended Audience :: End Users/Desktop',
@@ -40,6 +40,8 @@ dependencies = [
 Homepage = 'https://github.com/kzhu2099/KZ-Util'
 Issues = 'https://github.com/kzhu2099/KZ-Util/issues'
 
+[tool.setuptools.packages.find]
+include = ['kzutil', 'kzutil.*']
+
 [tool.setuptools]
-packages = ['kzutil']
 license-files = []
