@@ -5,9 +5,9 @@ build-backend = 'setuptools.build_meta'
 [project]
 name = 'kzutil'
 
-version = '1.1.2'
+version = '1.1.4'
 
-description = 'a library that gives you useful util'
+description = 'a library that gives you useful utility for niche functions'
 
 authors = [{name = 'Kevin Zhu'}, {email = 'kzhu2099@gmail.com'}]
 maintainers = [{name = 'Kevin Zhu'}, {email = 'kzhu2099@gmail.com'}]

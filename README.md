@@ -1,11 +1,13 @@
 # kzutil
 
-kzutil is a library that gives you useful util.
+`kzutil` is a library that gives you useful utility for niche functions.
+
+It has important functions for libraries built on it.
 
 - HomePage: https://github.com/kzhu2099/KZ-Util
 - Issues: https://github.com/kzhu2099/KZ-Util/issues
 
-[![PyPI Downloads](https://static.pepy.tech/badge/kzutil)](https://pepy.tech/projects/kzutil)
+[![PyPI Downloads](https://static.pepy.tech/badge/kzutil)](https://pepy.tech/projects/kzutil) ![PyPI version](https://img.shields.io/pypi/v/kzutil.svg)
 
 Author: Kevin Zhu
 
@@ -17,7 +19,7 @@ Author: Kevin Zhu
 
 ## Installation
 
-To install kzutil, use pip: ```pip install kzutil```.
+To install `kzutil`, use pip: ```pip install kzutil```.
 
 However, many prefer to use a virtual environment.
 
