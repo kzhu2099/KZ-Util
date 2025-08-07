@@ -5,7 +5,7 @@ build-backend = 'setuptools.build_meta'
 [project]
 name = 'kzutil'
 
-version = '1.1.4'
+version = '1.1.6'
 
 description = 'a library that gives you useful utility for niche functions'
 

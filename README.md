@@ -13,9 +13,10 @@ Author: Kevin Zhu
 
 ## Features
 
-- funcs to use
+- funcs to use (emailing, zipping)
 - consts to use
-- updating frequently based on need
+- wrappers to use
+- updating based on need
 
 ## Installation
 
